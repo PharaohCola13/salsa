@@ -129,12 +129,12 @@ input {
     }
 }
 a {
-    color: #872d00;
+    color: #A20000;
     text-decoration: none;
     font-weight: bold;
 }
 a:hover {
-    color: #8a6a2a;
+    color: #ffa726;
 }
 /* ----------------------------------------------------------------------------
  * Content styling
@@ -252,7 +252,7 @@ a:hover {
 .content h5,
 .content .small-heading,
 body:not(.big-h3) .content h3 {
-    border-bottom: solid 1px #bd7200;
+    border-bottom: solid 1px #ffab00;
     color: #000;
 }
 body:not(.big-h3) .content h3 {

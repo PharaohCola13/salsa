@@ -90,19 +90,37 @@ html, body {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    color: rgba(255, 255, 255, 0.56);
+    color: #ffab00;
     font-weight: 500;
 }
+.demo-layout .demo-navigation .mdl-navigation__link--current {
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-weight: 500;
+    background-color: #A20000;
+    color: #ffab00;
+}
 .demo-layout .demo-navigation .mdl-navigation__link:hover {
-    background-color: #00BCD4;
-    color: #37474F;
+    background-color: #A20000;
+    color: #ffab00;
 }
 .demo-navigation .mdl-navigation__link .material-icons {
     font-size: 24px;
     color: rgba(255, 255, 255, 0.56);
     margin-right: 32px;
 }
-
+.demo-navigation .mdl-navigation__link--current .material-icons {
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.56);
+    margin-right: 32px;
+}
 .demo-content {
     max-width: 1080px;
 }
@@ -175,32 +193,6 @@ _:-ms-input-placeholder, :root .demo-graph {
 }
 .demo-cards h3 {
     font-size: 1em;
-}
-.demo-updates .mdl-card__title {
-    min-height: 200px;
-    background-image: url('../img/sky.jpg');
-    background-position: 20% 0%;
-    background-repeat: no-repeat;
-}
-.demo-updates2 .mdl-card__title {
-    min-height: 200px;
-    background-image: url('../img/sun.jpg');
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-}
-
-.demo-updates3 .mdl-card__title {
-    min-height: 200px;
-    background-image: url('../img/nmt.jpg');
-    background-position: 43% 35%;
-    background-repeat: no-repeat;
-}
-
-.demo-updates4 .mdl-card__title {
-    min-height: 200px;
-    background-image: url('../img/rain.jpg');
-    background-position: 70% 0%;
-    background-repeat: no-repeat;
 }
 .demo-options h3 {
     margin: 0;
