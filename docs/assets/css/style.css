@@ -77,7 +77,7 @@ h4,h5,h6 {
 }
 ol,
 ul {
-    list-style: none;
+    display: block;
 }
 
 a img {
@@ -250,13 +250,14 @@ a:hover {
 
 .content h4,
 .content h5,
-.content .small-heading,
-body:not(.big-h3) .content h3 {
+.content .small-heading {
+    font-size: 1em;
     border-bottom: solid 1px #ffab00;
     color: #000;
 }
 body:not(.big-h3) .content h3 {
-    font-size: 0.9em;
+    font-size: 1.25em;
+    border-bottom: solid 1px #A20000;
 }
 .content h1:first-child {
     padding-top: 0;
@@ -705,185 +706,6 @@ a.big.button:hover:visited {
         padding: 0px;
     }
 
-}
-
-#methods .collapsible .panel {
-    padding-bottom: 30rem;
-}
-
-#step .collapsible_1 .panel{
-    padding-bottom: 30rem;
-}
-
-@media only screen and (max-width: 636px){
-    #methods .collapsible .panel {
-        padding-bottom: 34rem;
-    }
-}
-@media only screen and (max-width: 380px){
-    #methods .collapsible .panel {
-        padding-bottom: 40rem;
-    }
-}
-
-@media only screen and (max-width: 324px){
-    #methods .collapsible .panel {
-        padding-bottom: 42rem;
-    }
-}
-
-@media only screen and (max-width: 924px){
-    #step .collapsible_1 .panel{
-        padding-bottom: 30rem;
-    }
-}
-
-@media only screen and (max-width: 825px){
-    #step .collapsible_1 .panel{
-        padding-bottom: 32rem;
-    }
-}
-@media only screen and (max-width: 520px){
-    #step .collapsible_1 .panel{
-        padding-bottom: 34rem;
-    }
-}
-
-@media only screen and (max-width: 434px){
-    #step .collapsible_1 .panel{
-        padding-bottom: 35rem;
-    }
-}
-
-#guidelines .panel .guide{
-    padding-bottom: 21rem
-}
-
-#give-data .panel .give-data{
-    padding-bottom: 37rem
-}
-
-@media only screen and (max-width: 900px){
-    #give-data .panel .give-data {
-        padding-bottom: 38rem;
-    }
-}
-@media only screen and (max-width: 810px){
-    #give-data .panel .give-data {
-        padding-bottom: 40rem;
-    }
-}
-
-#give-code .panel .give-code{
-    padding-bottom: 30rem;
-}
-@media only screen and (max-width: 1200px){
-    #give-code .panel .give-code{
-        padding-bottom: 31rem;
-    }
-    #give-data .panel .give-data {
-        padding-bottom: 36rem;
-    }
-    #step .panel {
-        padding-bottom: 28rem;
-    }
-    #guidelines .panel .guide {
-        padding-bottom: 20rem;
-    }
-}
-@media only screen and (max-width: 991px){
-    #give-data .panel .give-data {
-        padding-bottom: 38rem;
-    }
-    #give-code .panel .give-code{
-        padding-bottom: 32rem
-    }
-    #guidelines .panel .guide {
-        padding-bottom: 21rem;
-    }
-}
-@media only screen and (max-width: 880px){
-    #give-data .panel .give-data {
-        padding-bottom: 40rem;
-    }
-}
-
-@media only screen and (max-width: 767px){
-    #give-data .panel .give-data {
-        padding-bottom: 37rem;
-    }
-}
-@media only screen and (max-width: 668px){
-    #give-data .panel .give-data {
-        padding-bottom: 40rem;
-    }
-}
-@media only screen and (max-width: 582px){
-    #give-code .panel .give-code {
-        padding-bottom: 35rem;
-    }
-}
-@media only screen and (max-width: 563px){
-    #give-data .panel .give-data {
-        padding-bottom: 42rem;
-    }
-}
-@media only screen and (max-width: 522px){
-    #give-data .panel .give-data {
-        padding-bottom: 42rem;
-    }
-}
-@media only screen and (max-width: 511px){
-    #give-code .panel .give-code {
-        padding-bottom: 36rem;
-    }
-    #give-data .panel .give-data {
-        padding-bottom: 43rem;
-    }
-}
-@media only screen and (max-width: 453px){
-    #give-data .panel .give-data {
-        padding-bottom: 44rem;
-    }
-}
-@media only screen and (max-width: 428px){
-    #give-data .panel .give-data {
-        padding-bottom: 46rem;
-    }
-}
-@media only screen and (max-width: 402px){
-    #give-code .panel .give-code {
-        padding-bottom: 38rem;
-    }
-}
-
-.usage .numbered{
-    margin-top: 20px;
-    margin-bottom: 10px;
-    padding-top: 2px;
-    background: #bdbdbd;
-    border-radius: 50%;
-    color: #fff;
-    display: inline-block;
-    height: 34px;
-    font-size: 18px;
-    text-align: center;
-    width: 36px;
-}
-
-.usage .subnumbered{
-    margin-top: 20px;
-    margin-bottom: 10px;
-    padding-top: 2px;
-    margin-left: 50px;
-    background: #bdbdbd;
-    border-radius: 50%;
-    color: #fff;
-    display: inline-block;
-    height: 34px;
-    font-size: 18px;
-    text-align: center;
-    width: 36px;
 }
 
 table {
