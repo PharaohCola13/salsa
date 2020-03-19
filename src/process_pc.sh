@@ -1,1 +1,0 @@
-## PyramidCola13 Routine
