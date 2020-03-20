@@ -18,6 +18,14 @@
         </div>
         <div class="panel">
             There is currently no data available. 
+            <h3>Image metadata</h3>
+            Each of the images, both raw and post, will have metadata embedded in them. 
+            <ul>
+                <li>Location</li>
+                <li>Time of observation</li>
+                <li>Weather Condition</li>
+                <li>Image Tag</li>
+            </ul>
         </div>
     </div>
 </div>
