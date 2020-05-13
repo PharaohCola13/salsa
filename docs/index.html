@@ -20,6 +20,7 @@
 	<script src='./assets/js/flatdoc.js'></script>
 	<script src='./assets/js/script.js'></script>
 	<script src="./assets/js/materialize.min.js"></script>
+	<script id="MathJax-script" async src="./assets/js/tex-mml-chtml.js"></script>
 
 	<link rel='stylesheet' href='./assets/css/style.css'>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css">
@@ -32,10 +33,11 @@
 
 	<script>
 		Flatdoc.run({
-          fetcher: Flatdoc.github('pharaohcola13/salsa')
-//			fetcher: Flatdoc.file('../README.md')
+//          fetcher: Flatdoc.github('pharaohcola13/salsa')
+			fetcher: Flatdoc.file('../README.md')
 		});
 	</script>
+
 </head>
 <body role='flatdoc' class="light" id="mode">
 <div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
@@ -97,6 +99,7 @@
 		$('.modal').modal({});
 	});
 </script>
+
 <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
 <script>
     var ref1 = 'https://scied.ucar.edu/solar-chromosphere';
