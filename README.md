@@ -210,64 +210,45 @@
 		</div>
 		<div class="panel">
 		<p><a name="Calbert_1972"></a>
-
 		Roosevelt Calbert and David&nbsp;B. Beard.
 		 The F and K Components of the Solar Corona.
 		 <em></em>, 176:497, September 1972.
 		[<a href="http://dx.doi.org/10.1086/151652">DOI</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Hale_1925"></a>
-
 		George&nbsp;E. Hale and Seth&nbsp;B. Nicholson.
 		 The Law of Sun-Spot Polarity.
 		 <em></em>, 62:270, November 1925.
 		[<a href="http://dx.doi.org/10.1086/142933">DOI</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Waldmeier_1963"></a>
-
 		M.&nbsp;Waldmeier.
 		 Slow Variations of the Solar Corona.
 		 In John&nbsp;Wainwright Evans, editor, <em>The Solar Corona</em>, volume&nbsp;16
 		  of <em>IAU Symposium</em>, page 129, January 1963.
-
 		</p>
-
 		<p><a name="Lyot_1939"></a>
-
 		Bernard Lyot.
 		 The study of the solar corona and prominences without eclipses
 		  (George Darwin Lecture, 1939).
 		 <em></em>, 99:580, June 1939.
 		[<a href="http://dx.doi.org/10.1093/mnras/99.8.580">DOI</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Evans_1948"></a>
-
 		John&nbsp;W. Evans.
 		 A photometer for measurement of sky brightness near the sun.
 		 <em>J. Opt. Soc. Am.</em>, 38(12):1083--1085, Dec 1948.
 		[<a href="http://dx.doi.org/10.1364/JOSA.38.001083">DOI</a>&nbsp;|
 		<a href="http://www.osapublishing.org/abstract.cfm?URI=josa-38-12-1083">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Richardson_2010"></a>
-
 		I.&nbsp;G. Richardson and H.&nbsp;V. Cane.
 		 Near-Earth Interplanetary Coronal Mass Ejections During Solar Cycle
 		  23 (1996 - 2009): Catalog and Summary of Properties.
 		 <em></em>, 264(1):189--237, June 2010.
 		[<a href="http://dx.doi.org/10.1007/s11207-010-9568-6">DOI</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Howard_2019"></a>
-
 		RA&nbsp;Howard, A&nbsp;Vourlidas, V&nbsp;Bothmer, RC&nbsp;Colaninno, CE&nbsp;DeForest, B&nbsp;Gallagher,
 		  JR&nbsp;Hall, P&nbsp;Hess, AK&nbsp;Higginson, CM&nbsp;Korendyke, A&nbsp;Kouloumvakos, PL&nbsp;Lamy,
 		  PC&nbsp;Liewer, J&nbsp;Linker, M&nbsp;Linton, P&nbsp;Penteado, SP&nbsp;Plunkett, N&nbsp;Poirier,
@@ -278,11 +259,8 @@
 		 <em>Nature</em>, 576(7786):232—236, December 2019.
 		[<a href="http://dx.doi.org/10.1038/s41586-019-1807-x">DOI</a>&nbsp;|
 		<a href="https://doi.org/10.1038/s41586-019-1807-x">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="McComas_2019"></a>
-
 		DJ&nbsp;McComas, ER&nbsp;Christian, CMS Cohen, AC&nbsp;Cummings, AJ&nbsp;Davis, MI&nbsp;Desai,
 		  J&nbsp;Giacalone, ME&nbsp;Hill, CJ&nbsp;Joyce, SM&nbsp;Krimigis, AW&nbsp;Labrador, RA&nbsp;Leske,
 		  O&nbsp;Malandraki, WH&nbsp;Matthaeus, RL&nbsp;McNutt, RA&nbsp;Mewaldt, DG&nbsp;Mitchell, A&nbsp;Posner,
@@ -293,11 +271,8 @@
 		 <em>Nature</em>, 576(7786):223—227, December 2019.
 		[<a href="http://dx.doi.org/10.1038/s41586-019-1811-1">DOI</a>&nbsp;|
 		<a href="https://doi.org/10.1038/s41586-019-1811-1">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Kasper_2019"></a>
-
 		J&nbsp;C Kasper, S&nbsp;D Bale, J&nbsp;W Belcher, M&nbsp;Berthomier, A&nbsp;W Case, B&nbsp;D&nbsp;G Chandran, D&nbsp;W
 		  Curtis, D&nbsp;Gallagher, S&nbsp;P Gary, L&nbsp;Golub, J&nbsp;S Halekas, G&nbsp;C Ho, T&nbsp;S Horbury,
 		  Q&nbsp;Hu, J&nbsp;Huang, K&nbsp;G Klein, K&nbsp;E Korreck, D&nbsp;E Larson, R&nbsp;Livi, B&nbsp;Maruca,
@@ -310,11 +285,8 @@
 		 <em>NATURE</em>, 2019.
 		[<a href="http://dx.doi.org/10.1038/s41586-019-1813-z">DOI</a>&nbsp;|
 		<a href="http://hdl.handle.net/10150/636694">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Bale_2019"></a>
-
 		S. D. Bale, S. T. Badman, J. W. Bonnell, T. A. Bowen, D.&nbsp;Burgess, A.
 		  W. Case, C. A. Cattell, B. D.G. Chandran, C. C. Chaston, C. H.K.
 		  Chen, J. F. Drake, T. Dudok de Wit, J. P. Eastwood, R. E. Ergun,
@@ -329,37 +301,25 @@
 		  hole.
 		 <em>Nature</em>, 576(7786):237--242, dec 2019.
 		[<a href="http://dx.doi.org/10.1038/s41586-019-1818-7">DOI</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Waldmeier_1974"></a>
-
 		M.&nbsp;Waldmeier.
 		 The Coronal Hole at the 7 March 1970 Solar Eclipse.
 		 <em></em>, 40(2):351--358, February 1975.
 		[<a href="http://dx.doi.org/10.1007/BF00162382">DOI</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Tousey_1965"></a>
-
 		R.&nbsp;Tousey.
 		 Observations of the white light corona by rocket.
 		 <em>Annales d'Astrophysique</em>, 28:600, February 1965.
-
 		</p>
-
 		<p><a name="Cooper_1964"></a>
-
 		Detwiler C. R. Koomen M. J. Packer D. M. Purcell J.D. Seal R. T. Jr Tousey R.
 		  et&nbsp;al. Cooper, H.&nbsp;W.
 		 Observations of the white light corona from a rocket.
 		 <em>NASA Technical Report</em>, February 1964.
-
 		</p>
-
 		<p><a name="Brueckner_1995"></a>
-
 		G.&nbsp;E. Brueckner, R.&nbsp;A. Howard, M.&nbsp;J. Koomen, C.&nbsp;M. Korendyke, D.&nbsp;J.
 		  Michels, J.&nbsp;D. Moses, D.&nbsp;G. Socker, K.&nbsp;P. Dere, P.&nbsp;L. Lamy,
 		  A.&nbsp;Llebaria, M.&nbsp;V. Bout, R.&nbsp;Schwenn, G.&nbsp;M. Simnett, D.&nbsp;K. Bedford,
@@ -368,53 +328,36 @@
 		 <em></em>, 162(1-2):357--402, December 1995.
 		[<a href="http://dx.doi.org/10.1007/BF00733434">DOI</a>&nbsp;]
 		</p>
-
 		<p><a name="nasa_2017"></a>
-
 		Stereo, Nov 2017.
 		[<a href="https://stereo.gsfc.nasa.gov/classroom/coronagraphs.shtml">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Parker_1969"></a>
-
 		E.&nbsp;N. Parker.
 		 Theoretical Studies of the Solar Wind Phenomenon.
 		 <em></em>, 9(3):325--360, May 1969.
 		[<a href="http://dx.doi.org/10.1007/BF00175236">DOI</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Jaggard_2019"></a>
-
 		Victoria Jaggard.
 		 Solar flares, explained, Apr 2019.
 		[<a href="https://www.nationalgeographic.com/science/space/reference/solar-fares/\#close">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Kontar_2008"></a>
-
 		Kontar, E. P., Hannah, I. G., and MacKinnon, A. L.
 		 Chromospheric magnetic field and density structure measurements using
 		  hard x-rays in a flaring coronal loop.
 		 <em>A&amp;A</em>, 489(3):L57--L60, 2008.
 		[<a href="http://dx.doi.org/10.1051/0004-6361:200810719">DOI</a>&nbsp;|
 		<a href="https://doi.org/10.1051/0004-6361:200810719">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Watko_2000"></a>
-
 		J.&nbsp;A. Watko and J.&nbsp;A. Klimchuk.
 		 Width Variations along Coronal Loops Observed by TRACE.
 		 <em></em>, 193:77--92, April 2000.
 		[<a href="http://dx.doi.org/10.1023/A:1005209528612">DOI</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Howard_2008"></a>
-
 		R.&nbsp;A. Howard, J.&nbsp;D. Moses, A.&nbsp;Vourlidas, J.&nbsp;S. Newmark, D.&nbsp;G. Socker, S.&nbsp;P.
 		  Plunkett, C.&nbsp;M. Korendyke, J.&nbsp;W. Cook, A.&nbsp;Hurley, J.&nbsp;M. Davila, W.&nbsp;T.
 		  Thompson, O.&nbsp;C. St&nbsp;Cyr, E.&nbsp;Mentzell, K.&nbsp;Mehalick, J.&nbsp;R. Lemen, J.&nbsp;P. Wuelser,
@@ -428,11 +371,8 @@
 		 <em>Space Science Reviews</em>, 136(1):67, May 2008.
 		[<a href="http://dx.doi.org/10.1007/s11214-008-9341-4">DOI</a>&nbsp;|
 		<a href="https://doi.org/10.1007/s11214-008-9341-4">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Thompson_2003"></a>
-
 		William&nbsp;T. Thompson, Joseph&nbsp;M. Davila, Richard&nbsp;R. Fisher, Larry&nbsp;E. Orwig,
 		  John&nbsp;Eric Mentzell, Samuel&nbsp;E. Hetherington, Rebecca&nbsp;J. Derro, Robert&nbsp;E.
 		  Federline, David&nbsp;C. Clark, Philip T.&nbsp;C. Chen, June&nbsp;L. Tveekrem, Anthony&nbsp;J.
@@ -445,21 +385,15 @@
 		  -- 11. International Society for Optics and Photonics, SPIE, 2003.
 		[<a href="http://dx.doi.org/10.1117/12.460267">DOI</a>&nbsp;|
 		<a href="https://doi.org/10.1117/12.460267">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Weiss_2019"></a>
-
 		Matthew Weiss and Martin Weiss.
 		 An assessment of threats to the american power grid.
 		 <em>Energy, Sustainability and Society</em>, 9(1):18, May 2019.
 		[<a href="http://dx.doi.org/10.1186/s13705-019-0199-y">DOI</a>&nbsp;|
 		<a href="https://doi.org/10.1186/s13705-019-0199-y">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Battams_2017"></a>
-
 		Karl Battams and Matthew&nbsp;M. Knight.
 		 Soho comets: 20 years and 3000 objects later.
 		 <em>Philosophical Transactions of the Royal Society A: Mathematical,
@@ -467,11 +401,8 @@
 		[<a href="http://dx.doi.org/10.1098/rsta.2016.0257">DOI</a>&nbsp;|
 		<a href="http://arxiv.org/abs/https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0257">arXiv</a>&nbsp;|
 		<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2016.0257">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Posner_2007"></a>
-
 		Arik Posner.
 		 Up to 1-hour forecasting of radiation hazards from solar energetic
 		  ion events with relativistic electrons.
@@ -479,11 +410,8 @@
 		[<a href="http://dx.doi.org/10.1029/2006SW000268">DOI</a>&nbsp;|
 		<a href="http://arxiv.org/abs/https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2006SW000268">arXiv</a>&nbsp;|
 		<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2006SW000268">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Murray_2018"></a>
-
 		Sophie&nbsp;A. Murray, Jordan&nbsp;A. Guerra, Pietro Zucca, Sung-Hong Park, Eoin&nbsp;P.
 		  Carley, Peter&nbsp;T. Gallagher, Nicole Vilmer, and Volker Bothmer.
 		 Connecting coronal mass ejections to their solar active region
@@ -491,38 +419,27 @@
 		 <em>Solar Physics</em>, 293(4), Apr 2018.
 		[<a href="http://dx.doi.org/10.1007/s11207-018-1287-4">DOI</a>&nbsp;|
 		<a href="http://dx.doi.org/10.1007/s11207-018-1287-4">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Reale_2014"></a>
-
 		Fabio Reale.
 		 Coronal loops: Observations and modeling of confined plasma.
 		 <em>Living Reviews in Solar Physics</em>, 11(1):4, Jul 2014.
 		[<a href="http://dx.doi.org/10.12942/lrsp-2014-4">DOI</a>&nbsp;|
 		<a href="https://doi.org/10.12942/lrsp-2014-4">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Pedrotti_2019"></a>
-
 		Frank&nbsp;L. Pedrotti, Leno&nbsp;Matthew Pedrotti, and Leno&nbsp;S. Pedrotti.
 		 <em>Introduction to optics</em>.
 		 Cambridge University Press, 2019.
 		</p>
-
 		<p><a name="Noll_1973"></a>
-
 		Robert&nbsp;J. Noll.
 		 Reduction of diffraction of use of a lyot stop.
 		 <em>J. Opt. Soc. Am.</em>, 63(11):1399--1402, Nov 1973.
 		[<a href="http://dx.doi.org/10.1364/JOSA.63.001399">DOI</a>&nbsp;|
 		<a href="http://www.osapublishing.org/abstract.cfm?URI=josa-63-11-1399">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Jones_2017"></a>
-
 		Geraint&nbsp;H. Jones, Matthew&nbsp;M. Knight, Karl Battams, Daniel&nbsp;C. Boice, John Brown,
 		  Silvio Giordano, John Raymond, Colin Snodgrass, Jordan&nbsp;K. Steckloff, Paul
 		  Weissman, Alan Fitzsimmons, Carey Lisse, Cyrielle Opitom, Kimberley&nbsp;S.
@@ -532,51 +449,37 @@
 		 <em>Space Science Reviews</em>, 214(1):20, Dec 2017.
 		[<a href="http://dx.doi.org/10.1007/s11214-017-0446-5">DOI</a>&nbsp;|
 		<a href="https://doi.org/10.1007/s11214-017-0446-5">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Wiegelmann_2004"></a>
-
 		T.&nbsp;Wiegelmann and S.&nbsp;K. Solanki.
 		 Similarities and differences between coronal holes and the quiet sun:
 		  Are loop statistics the key?
 		 <em>Solar Physics</em>, 225(2):227–247, Dec 2004.
 		[<a href="http://dx.doi.org/10.1007/s11207-004-3747-2">DOI</a>&nbsp;|
 		<a href="http://dx.doi.org/10.1007/s11207-004-3747-2">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Filippov_2015"></a>
-
 		Boris Filippov, Olesya Martsenyuk, Abhishek&nbsp;K. Srivastava, and Wahab Uddin.
 		 Solar magnetic flux ropes.
 		 <em>Journal of Astrophysics and Astronomy</em>, 36(1):157–184, Mar
 		  2015.
 		[<a href="http://dx.doi.org/10.1007/s12036-015-9321-5">DOI</a>&nbsp;|
 		<a href="http://dx.doi.org/10.1007/s12036-015-9321-5">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Gou_2019"></a>
-
 		Tingyu Gou, Rui Liu, Bernhard Kliem, Yuming Wang, and Astrid&nbsp;M. Veronig.
 		 The birth of a coronal mass ejection.
 		 <em>Science Advances</em>, 5(3), 2019.
 		[<a href="http://dx.doi.org/10.1126/sciadv.aau7004">DOI</a>&nbsp;|
 		<a href="http://arxiv.org/abs/https://advances.sciencemag.org/content/5/3/eaau7004.full.pdf">arXiv</a>&nbsp;|
 		<a href="https://advances.sciencemag.org/content/5/3/eaau7004">http</a>&nbsp;]
-
 		</p>
-
 		<p><a name="Weissman_2006"></a>
-
 		Lucy-Ann&nbsp;Adams. McFadden, Paul&nbsp;Robert Weissman, and T.&nbsp;V. Johnson.
 		 <em>Encyclopedia of the solar system</em>.
 		 Elsevier Science, 2006.
 		</p>
-
 		<p><a name="NASA_2019"></a>
-
 		Office of&nbsp;Inspector&nbsp;General.
 		 Nasa’s heliophysics portfolio.
 		 Ig-19-018, NASA, 2019.
