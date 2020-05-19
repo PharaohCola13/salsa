@@ -252,7 +252,8 @@ a:hover {
 .content h5,
 .content .small-heading {
     font-size: 1em;
-    border-bottom: solid 1px #ffab00;
+    text-transform: uppercase;
+    border-bottom: dashed 1px #ffab00;
     color: #000;
 }
 body:not(.big-h3) .content h3 {

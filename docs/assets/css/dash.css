@@ -107,6 +107,19 @@ html, body {
     background-color: #A20000;
     color: #ffab00;
 }
+.demo-layout .demo-navigation .mdl-navigation__link--disable {
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-weight: 500;
+    color: #ffab00;
+}
 .demo-layout .demo-navigation .mdl-navigation__link:hover {
     background-color: #A20000;
     color: #ffab00;
@@ -117,6 +130,11 @@ html, body {
     margin-right: 32px;
 }
 .demo-navigation .mdl-navigation__link--current .material-icons {
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.56);
+    margin-right: 32px;
+}
+.demo-navigation .mdl-navigation__link--disable .material-icons {
     font-size: 24px;
     color: rgba(255, 255, 255, 0.56);
     margin-right: 32px;

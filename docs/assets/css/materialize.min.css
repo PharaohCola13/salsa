@@ -102,7 +102,6 @@ audio:not([controls]) {
     height: 0
 }
 
-body:not(.big-h3) .content h3
 img {
     border-style: none
 }
