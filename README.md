@@ -35,6 +35,8 @@
 					&emsp;The surface of the Sun is a complex, high-energy environment that continuously emits solar radiation and ionized particles throughout the heliosphere. The atmosphere is an extension of the surface and is similarly comprised of high-energy, charged particles. The Sun's atmosphere is comprised of three primary layers: the chromosphere, the corona, and the solar winds.
 					<br>
 					&emsp;The atmosphere has a significant impact on photospheric phenomena. During solar maximum, images from an early spectroheliograph show that the structure of a sunspot resembles high-velocity vortexes of ionized particles produced from the solar atmosphere (Hale, 1925). We can also note the relationship between the surface and the solar winds. While stronger magnetic fields tend to be isolated near the surface by means of resisting the hydrodynamic expansion, the weaker fields can interact with the Earth and can reach into the distant regions of the heliosphere by means of the solar wind. (Parker, 1969) details how this phenomena can be analytically represented by defining the radial and the angular magnetic fields as
+
+					<![](https://i.ibb.co/hgXR2cP/eq1.gif)>
 					<div lang="latex", style="text-align: center">
 					B(r, \theta, \phi) = B \Big( \theta, \phi + \frac{r\Omega}{v} \Big) \Big( \frac{r\_0}{r} \Big)^2
 					</div>
